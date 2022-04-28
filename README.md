@@ -5,6 +5,9 @@
 _문자열을 검색하고 대체하는 데 사용하는 가능한 일종의 패턴언어이다._  
 _사용 목적으로는 문자의 검색, 문자의 대체, 문자의 추출을 할 수 있다._
 
+- 참고 사이트
+  [Heropy Regular Expression](https://heropy.blog/2018/10/28/regexp/)
+
 - 정규 표현식 테스트 사이트  
   [정규표현 테스트 사이트1](https://regex101.com/)  
   [정규표현 테스트 사이트2](https://regexr.com/)  
